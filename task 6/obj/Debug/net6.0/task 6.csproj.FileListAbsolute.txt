@@ -1,0 +1,15 @@
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\bin\Debug\net6.0\task 6.exe
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\bin\Debug\net6.0\task 6.deps.json
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\bin\Debug\net6.0\task 6.runtimeconfig.json
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\bin\Debug\net6.0\task 6.dll
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\bin\Debug\net6.0\task 6.pdb
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\obj\Debug\net6.0\task 6.csproj.AssemblyReference.cache
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\obj\Debug\net6.0\task 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\obj\Debug\net6.0\task 6.AssemblyInfoInputs.cache
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\obj\Debug\net6.0\task 6.AssemblyInfo.cs
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\obj\Debug\net6.0\task 6.csproj.CoreCompileInputs.cache
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\obj\Debug\net6.0\task 6.dll
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\obj\Debug\net6.0\refint\task 6.dll
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\obj\Debug\net6.0\task 6.pdb
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\obj\Debug\net6.0\task 6.genruntimeconfig.cache
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\Seminars_C\task 6\obj\Debug\net6.0\ref\task 6.dll
